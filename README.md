@@ -4,7 +4,7 @@ This repository is still in a temporary state
 
 Current Project Goals:
 
-Develop a prototype schematic (COMPLETED ?)
+Develop a prototype schematic in KiCad (COMPLETED ?)
 
 Develop V-USB HID firmware (IN PROGRESS)
 
