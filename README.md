@@ -2,6 +2,16 @@
 
 This repository is still in a temporary state
 
+Current Project Goals:
+
+Develop a prototype schematic (COMPLETED ?)
+
+Develop V-USB HID firmware (IN PROGRESS)
+
+Develop circuit on breadboard -> soldered circuit
+
+
+
 Thank you to:
 
 Sine Lab https://www.youtube.com/watch?v=6U_bHTnFu-g
